@@ -1,3 +1,3 @@
 # Malignant-Comments-Classifier
 Malignant Comments Classifier
-Machine Learning
+Machine Learning/Data Analysis
